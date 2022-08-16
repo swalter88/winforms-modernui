@@ -87,10 +87,14 @@ Contributers
 
 I am the original developer of this framework and removed my old Github repository back in 2013. Therefore the repo of https://github.com/peters is the current base fork.
 
+
 Many thanks to all supporters and contributers of this project. 
 
+
 In particular to
+
 https://github.com/peters/winforms-modernui
+
 https://github.com/thielj/MetroFramework
 
 Thx for supporting the community and bringing nice features into the codebase.
